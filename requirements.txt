@@ -1,0 +1,60 @@
+# ==============================================================
+# ML Models Interview Prep — Python Dependencies
+# ==============================================================
+# Python >= 3.10 required (developed with 3.13.5)
+# To change the minimum version, update this comment and any
+# version-specific syntax in notebooks.
+# ==============================================================
+
+# Core scientific computing
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.12.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Machine Learning
+scikit-learn>=1.4.0
+
+# Jupyter
+jupyterlab>=4.1.0
+notebook>=7.1.0
+ipywidgets>=8.1.0
+
+# Utilities
+tqdm>=4.66.0
+
+# ---- Phase 4+ (Ensemble) ----
+# xgboost>=2.0.0
+# lightgbm>=4.3.0
+# catboost>=1.2.0
+
+# ---- Phase 5+ (Deep Learning) ----
+# torch>=2.2.0
+# torchvision>=0.17.0
+# torchaudio>=2.2.0
+
+# ---- Phase 6+ (Transformers / HuggingFace) ----
+# transformers>=4.38.0
+# datasets>=2.18.0
+# tokenizers>=0.15.0
+# accelerate>=0.27.0
+
+# ---- Phase 7 (Reinforcement Learning) ----
+# gymnasium>=0.29.0
+# stable-baselines3>=2.2.0
+
+# ---- Phase 9 (Generative AI) ----
+# diffusers>=0.27.0
+# peft>=0.9.0
+
+# ---- Phase 10 (Probabilistic Graphical Models) ----
+# pgmpy>=0.1.25
+# hmmlearn>=0.3.0
+
+# ---- Infrastructure (optional) ----
+# google-cloud-aiplatform>=1.42.0
+# boto3>=1.34.0
