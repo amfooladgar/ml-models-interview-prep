@@ -12,15 +12,22 @@ A comprehensive, hands-on repository covering **68+ machine learning algorithms*
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [Repository Structure](#-repository-structure)
-- [How to Use](#-how-to-use)
-- [Setup](#-setup)
-- [Phases & Roadmap](#-phases--roadmap)
-- [Notebook Format](#-notebook-format)
-- [GPU & Cloud Infrastructure](#-gpu--cloud-infrastructure)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [🧠 ML Models Interview Prep](#-ml-models-interview-prep)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🎯 Overview](#-overview)
+  - [📁 Repository Structure](#-repository-structure)
+  - [🚀 How to Use](#-how-to-use)
+    - [For Self-Study](#for-self-study)
+    - [For Interview Prep](#for-interview-prep)
+  - [⚙️ Setup](#️-setup)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Python Version](#python-version)
+  - [🗺️ Phases \& Roadmap](#️-phases--roadmap)
+  - [📓 Notebook Format](#-notebook-format)
+  - [☁️ GPU \& Cloud Infrastructure](#️-gpu--cloud-infrastructure)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
 
 ---
 
@@ -198,4 +205,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 **Happy Learning! 🎓**
 
-*Built with ❤️ for the ML community*
+*Built with curiosity, presence, and connection — the values behind everything I create.*
