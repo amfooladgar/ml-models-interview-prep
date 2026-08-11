@@ -42,6 +42,6 @@ Each notebook builds on the previous one. Start with Linear Regression and work 
 |--------|---------|----------|
 | MSE | `mean((y - ŷ)²)` | Penalizes large errors more |
 | RMSE | `sqrt(MSE)` | Same units as target |
-| MAE | `mean(|y - ŷ|)` | Robust to outliers |
+| MAE | `mean(\|y - ŷ\|)` | Robust to outliers |
 | R² | `1 - SS_res/SS_tot` | Proportion of variance explained |
 | Adjusted R² | `1 - (1-R²)(n-1)/(n-p-1)` | Accounts for number of features |
