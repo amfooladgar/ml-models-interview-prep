@@ -11,7 +11,7 @@ This file tracks which phases have been completed. When you're ready for the nex
 | 1 | Regression + Repo Setup | ✅ Complete | `PHASE_1_COMPLETE` |
 | 2 | Classification | ✅ Complete | `PHASE_2_COMPLETE` |
 | 3 | Unsupervised Learning | ✅ Complete | `PHASE_3_COMPLETE` |
-| 4 | Ensemble Learning | 🔲 Not Started | `PHASE_4_COMPLETE` |
+| 4 | Ensemble Learning | ✅ Complete | `PHASE_4_COMPLETE` |
 | 5 | Deep Learning: Foundations | 🔲 Not Started | `PHASE_5_COMPLETE` |
 | 6 | Deep Learning: Advanced | 🔲 Not Started | `PHASE_6_COMPLETE` |
 | 7 | Reinforcement Learning | 🔲 Not Started | `PHASE_7_COMPLETE` |
@@ -24,10 +24,10 @@ This file tracks which phases have been completed. When you're ready for the nex
 ## Latest Checkpoint
 
 ```
-CURRENT_PHASE: 4
+CURRENT_PHASE: 5
 STATUS: NOT_STARTED
-LAST_UPDATED: 2026-08-10
-LAST_COMPLETED: PHASE_3_COMPLETE
+LAST_UPDATED: 2026-08-11
+LAST_COMPLETED: PHASE_4_COMPLETE
 ```
 
 ---
@@ -51,3 +51,9 @@ LAST_COMPLETED: PHASE_3_COMPLETE
 - **Files**: 26 notebooks (13 practice + 13 solutions)
 - **Completed**: 2026-08-10
 - **Verified**: All 26 practice & solution notebooks generated and validated via nbformat
+
+### Phase 4 — Ensemble Learning ✅
+- **Algorithms**: Random Forest & Bagging, AdaBoost, GBM, XGBoost, LightGBM, CatBoost, Stacking & Voting
+- **Files**: 14 notebooks (7 practice + 7 solutions) + Ensemble README & Cheatsheet
+- **Completed**: 2026-08-11
+- **Verified**: All 14 practice & solution notebooks generated and validated via nbformat

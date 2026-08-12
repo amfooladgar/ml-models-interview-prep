@@ -144,10 +144,10 @@ Progress is tracked in [PROGRESS.md](PROGRESS.md).
 
 | Phase | Category | Status |
 |-------|----------|--------|
-| 1 | Regression + Repo Setup | 🔲 Not Started |
-| 2 | Classification | 🔲 Not Started |
-| 3 | Unsupervised Learning | 🔲 Not Started |
-| 4 | Ensemble Learning | 🔲 Not Started |
+| 1 | Regression + Repo Setup | ✅ Complete |
+| 2 | Classification | ✅ Complete |
+| 3 | Unsupervised Learning | ✅ Complete |
+| 4 | Ensemble Learning | ✅ Complete |
 | 5 | Deep Learning: Foundations | 🔲 Not Started |
 | 6 | Deep Learning: Advanced | 🔲 Not Started |
 | 7 | Reinforcement Learning | 🔲 Not Started |

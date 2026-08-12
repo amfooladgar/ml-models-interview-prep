@@ -15,6 +15,7 @@ Each file contains the essential math, scikit-learn syntax, from-scratch impleme
 | **03** | **Clustering** | K-Means, DBSCAN, Hierarchical Clustering, GMM, Mean Shift | [03_clustering.md](03_clustering.md) |
 | **04** | **Dimensionality Reduction** | PCA, t-SNE, UMAP, SVD, LDA | [04_dimensionality_reduction.md](04_dimensionality_reduction.md) |
 | **05** | **Association Rule Learning** | Apriori, Eclat, FP-Growth | [05_association_rules.md](05_association_rules.md) |
+| **06** | **Ensemble Learning** | Random Forest, AdaBoost, GBM, XGBoost, LightGBM, CatBoost, Stacking/Voting | [06_ensemble_learning.md](06_ensemble_learning.md) |
 
 ---
 
@@ -32,6 +33,8 @@ Each file contains the essential math, scikit-learn syntax, from-scratch impleme
 | **DBSCAN** | $O(n \log n)$ (with Index) or $O(n^2)$ | $O(1)$ (assigning query) | $O(n)$ | Non-Parametric | `eps`, `min_samples` |
 | **PCA** | $O(d^2 n + d^3)$ or $O(k^2 n + k^3)$ | $O(k d)$ | $O(k d)$ | Parametric | `n_components`, `svd_solver` |
 | **Apriori** | Exponential $O(2^d)$ | N/A | $O(2^d)$ | Non-Parametric | `min_support`, `min_confidence` |
+| **Random Forest** | $O(M \cdot k \cdot n \log n)$ | $O(M \cdot \text{depth})$ | $O(M \cdot \text{nodes})$ | Non-Parametric | `n_estimators`, `max_features`, `max_depth` |
+| **XGBoost / GBM** | $O(M \cdot d \cdot n \log n)$ | $O(M \cdot \text{depth})$ | $O(M \cdot \text{nodes})$ | Non-Parametric | `learning_rate`, `max_depth`, `subsample`, `reg_lambda` |
 
 *Note: $n$ = number of samples, $d$ = number of features, $k$ = target components / clusters / neighbors, $c$ = number of classes, $n_{sv}$ = number of support vectors, $t$ = iterations.*
 

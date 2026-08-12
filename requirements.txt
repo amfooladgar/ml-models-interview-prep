@@ -28,9 +28,9 @@ ipywidgets>=8.1.0
 tqdm>=4.66.0
 
 # ---- Phase 4+ (Ensemble) ----
-# xgboost>=2.0.0
-# lightgbm>=4.3.0
-# catboost>=1.2.0
+xgboost>=2.0.0
+lightgbm>=4.3.0
+catboost>=1.2.0
 
 # ---- Phase 5+ (Deep Learning) ----
 # torch>=2.2.0
