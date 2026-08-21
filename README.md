@@ -148,7 +148,7 @@ Progress is tracked in [PROGRESS.md](PROGRESS.md).
 | 2 | Classification | ✅ Complete |
 | 3 | Unsupervised Learning | ✅ Complete |
 | 4 | Ensemble Learning | ✅ Complete |
-| 5 | Deep Learning: Foundations | 🔲 Not Started |
+| 5 | Deep Learning: Foundations | ✅ Complete |
 | 6 | Deep Learning: Advanced | 🔲 Not Started |
 | 7 | Reinforcement Learning | 🔲 Not Started |
 | 8 | Semi/Self-Supervised + Transfer | 🔲 Not Started |

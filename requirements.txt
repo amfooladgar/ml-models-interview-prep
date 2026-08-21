@@ -33,9 +33,9 @@ lightgbm>=4.3.0
 catboost>=1.2.0
 
 # ---- Phase 5+ (Deep Learning) ----
-# torch>=2.2.0
-# torchvision>=0.17.0
-# torchaudio>=2.2.0
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
 
 # ---- Phase 6+ (Transformers / HuggingFace) ----
 # transformers>=4.38.0
